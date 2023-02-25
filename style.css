@@ -154,6 +154,7 @@ html {
     justify-content: center;
     align-items: center;
     height: 15vh;
+    position: relative;
 }
 
 #search-box input {
@@ -164,6 +165,13 @@ html {
     border: 1px solid #ccc;
     outline: none;
     border-radius: 4px;
+}
+
+ #search-box #magn {
+  position: absolute;
+  right: 30%;
+  color: #ccc;
+  cursor: pointer;
 }
 
 #search-box button {
