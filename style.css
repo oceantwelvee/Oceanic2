@@ -413,7 +413,7 @@ footer {
   
   footer .follow i:hover,
   footer a:hover {
-    color: #088178;
+    color: rgb(80, 147, 199);
   }
   
   footer .copyright {
